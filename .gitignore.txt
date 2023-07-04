@@ -1,0 +1,4 @@
+'*.exe' will ignore any exe files.
+
+'/Documents' will ignore the Document directory
+#To write a comment
